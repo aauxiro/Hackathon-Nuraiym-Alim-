@@ -1,17 +1,5 @@
 
 
-let Title = document.querySelector('#Title')
-let Prise = document.querySelector('#Prise')
-let Description = document.querySelector('#Description')
-let Image = document.querySelector('#Image')
-let btnAdd = document.querySelector('#btn-add')
-
-
-let modalTitle = document.querySelector('#modalTitle')
-let modalPrise = document.querySelector('#modal-Prise')
-let modalDescription = document.querySelector('#modal-Description')
-let modalImage = document.querySelector('#modal-Image')
-
 
 let currentPage = 1;
         let pageTotalCount = 1 
